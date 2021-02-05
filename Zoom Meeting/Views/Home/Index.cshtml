@@ -1,0 +1,12 @@
+﻿<h3>@ViewBag.Message</h3>
+
+<input type="button" title="Sign In" value="Sign In" class="btn btn-primary btn-sm" onclick="location.href = '@Url.Action("SignIn", "Zoom")'" />
+
+<input type="button" title="Refresh Token" value="Refresh Token" class="btn btn-primary btn-sm" onclick="location.href = '@Url.Action("RefreshToken", "Zoom")'" />
+
+<div class="row row-no-gutters" style="margin: 40px 10px 20px 10px;">
+    <div class="col-sm-6">
+        @Html.Partial("~/Views/ZoomMeeting/CreateMeeting.cshtml")
+    </div>
+</div>
+

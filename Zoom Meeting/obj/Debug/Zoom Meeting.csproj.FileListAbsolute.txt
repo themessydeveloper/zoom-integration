@@ -1,0 +1,80 @@
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\obj\Debug\Zoom Meeting.csprojAssemblyReference.cache
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\Zoom Meeting.dll.config
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\Zoom Meeting.dll
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\Zoom Meeting.pdb
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\roslyn\csc.exe
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\roslyn\csc.exe.config
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\roslyn\csc.rsp
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\roslyn\csi.exe
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\roslyn\csi.exe.config
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\roslyn\csi.rsp
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\roslyn\System.AppContext.dll
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\roslyn\System.Console.dll
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\roslyn\System.IO.Compression.dll
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\roslyn\System.Net.Http.dll
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\roslyn\System.ValueTuple.dll
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\roslyn\vbc.exe
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\roslyn\vbc.exe.config
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\roslyn\vbc.rsp
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\roslyn\VBCSCompiler.exe
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\Antlr3.Runtime.dll
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\Newtonsoft.Json.dll
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\RestSharp.dll
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\System.Web.Helpers.dll
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\System.Web.Mvc.dll
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\System.Web.Optimization.dll
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\System.Web.Razor.dll
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\System.Web.WebPages.dll
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\System.Web.WebPages.Razor.dll
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\WebGrease.dll
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\RestSharp.xml
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\System.Web.Helpers.xml
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\System.Web.Mvc.xml
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\System.Web.Optimization.xml
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\System.Web.Razor.xml
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\System.Web.WebPages.xml
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\System.Web.WebPages.Razor.xml
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\Newtonsoft.Json.xml
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\Antlr3.Runtime.pdb
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\obj\Debug\Zoom Meeting.csproj.CopyComplete
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\obj\Debug\Zoom Meeting.dll
+C:\Users\Purshotam\Desktop\Zoom Meeting\Zoom Meeting\obj\Debug\Zoom Meeting.pdb

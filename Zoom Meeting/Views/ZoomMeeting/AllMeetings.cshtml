@@ -1,0 +1,29 @@
+﻿@using Zoom_Meeting.Models;
+@model List<ZoomMeeting>
+
+@if (Model.Count != 0)
+{
+    <div>
+        @foreach (ZoomMeeting meeting in Model)
+        {
+            <div style="margin: 30px;" class="row">
+                <a style="cursor: pointer; text-decoration: none;" class="col-sm-4" onclick="location.href = '@Url.Action("Meeting", "ZoomMeeting", new {identifier = meeting.Id})'">
+                    <div>
+                        <p>Title : @meeting.Topic</p>
+                        <p>Agenda : @meeting.Agenda</p>
+                        <p>Date : @meeting.Start_Time.ToString("dd-MMM-yyyy hh:mm")</p>
+                    </div>
+                </a>
+                <a style="cursor: pointer; text-decoration: none;" onclick="location.href = '@Url.Action("UpdateMeeting", "ZoomMeeting", new {identifier = meeting.Id})'">Edit</a>
+                <span style="margin-right: 20px; margin-left: 20px;">|</span>
+                <a style="cursor: pointer; text-decoration: none;" onclick="location.href = '@Url.Action("DeleteMeeting", "ZoomMeeting", new {identifier = meeting.Id})'">Delete</a>
+            </div>
+        }
+    </div>
+}
+else
+{
+    <div style="margin: 30px; font-size: 20px;">
+        No Meetings Scheduled
+    </div>
+}

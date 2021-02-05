@@ -1,0 +1,30 @@
+﻿@using Zoom_Meeting.Models;
+@model Meeting
+
+<div>
+    <form method="post" action="UpdateZoomMeeting?identifier=@Model.Id">
+        <div class="row" style="margin:10px;">
+            <label for="Topic" class="col-sm-2">Topic:</label>
+            <input type="text" class="col-sm-1 form-control" name="Topic" value="@Model.Topic" autocomplete="off" />
+        </div>
+        <div class="row" style="margin:10px;">
+            <label for="Agenda" class="col-sm-2">Agenda:</label>
+            <input type="text" class="col-sm-1 form-control" name="Agenda" value="@Model.Agenda" autocomplete="off" />
+        </div>
+        <div class="row" style="margin:10px;">
+            <label for="Date" class="col-sm-2">Meeting Date:</label>
+            <input type="date" class="col-sm-1 form-control" name="Date" value="@Model.Date.ToString("yyyy-MM-dd")" />
+        </div>
+        <div class="row" style="margin:10px;">
+            <label for="Time" class="col-sm-2">Start Time:</label>
+            <input type="number" class="col-sm-1 form-control" name="Time" value="@Model.Time" autocomplete="off" />
+        </div>
+        <div class="row" style="margin:10px;">
+            <label for="Duration" class="col-sm-2">Duration:</label>
+            <input type="number" class="col-sm-1 form-control" name="Duration" value="@Model.Duration" autocomplete="off" />
+        </div>
+        <div class="row col-sm-3" style="margin:10px;">
+            <input type="submit" value="Submit" class="btn btn-primary" />
+        </div>
+    </form>
+</div>

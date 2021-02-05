@@ -1,0 +1,13 @@
+﻿@using Zoom_Meeting.Models;
+@model ZoomMeeting
+<div>
+    <div style="margin: 20px;">
+        <p>Title : @Model.Topic</p>
+        <p>Agenda : @Model.Agenda</p>
+        <p>Date : @Model.Start_Time.ToString("dd-MMM-yyyy hh:mm")</p>
+        <p>Duration : @Model.Duration</p>
+        <p>Time Zone : @Model.TimeZone</p>
+        <p>Start Url : <a href="@Model.Start_Url" target="_blank">@Model.Start_Url</a></p>
+        <p>Join Url : <a href="@Model.Join_Url" target="_blank">@Model.Join_Url</a></p>
+    </div>
+</div>
